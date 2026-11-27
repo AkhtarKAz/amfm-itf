@@ -5,6 +5,7 @@ body {
 .fotoken {
     width: 10%;
     border-radius: 100%;
+    border: 4px solid white;
     display: flex;
 }
 
@@ -13,7 +14,7 @@ body {
 }
 
 .namasaya {
-
+    
 }
 
 .jurusan {
@@ -25,5 +26,5 @@ body {
 }
 
 .medsos {
-
+    text-decoration: none;
 }
